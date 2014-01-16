@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="b8cdc772-062d-4f70-b55d-9ab5a7e8080a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/images/comperformance/administor.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/css/comperformance" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/images/comperformance" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/comperformance" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/highcharts" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/images/comperformance/index.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/images/comperformance/index.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/images/comperformance/logo/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/images/comperformance/logo" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/highcharts/modules" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/images/comperformance/student.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/highcharts/themes" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/engine/activity.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/addbehavior.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/addcomperformance_setup.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/adddevelopment.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/captcha/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/behavior.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/classcomperformances.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/comperformance/comperformance.highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/comperformance.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/comperformance/comperformance.jCombo.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/engine/comperformance.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/comperformance/comperformance.table.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/comperformance/comperformance.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/comperformance/comperformance.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/comperformance_setup.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/deletebehavior.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/deletecomperformance_setup.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/deletedevelopment.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/development.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/editbehavior.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/editcomperformance_setup.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/editdevelopment.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/highcharts/modules/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/highcharts/themes/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/highcharts/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/libs/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/datatables/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/validate/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/css/comperformance/login.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/comperformance/login.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/select.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/select.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/activity/selectdevelopment.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/studentcomperformance.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/css/comperformance/style.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/comperformance/updateselect.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/engine/account.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/engine/account.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/addassessment.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/addassessment.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/class/addclass.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/class/addclass.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/addstudent.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/addstudent.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/engine/admin.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/engine/admin.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/accounts/change_password.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/accounts/change_password.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/deleteassessment.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/deleteassessment.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/class/deleteclass.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/class/deleteclass.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/deletestudent.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/deletestudent.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/editassessment.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/editassessment.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/class/editclass.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/class/editclass.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/editstudent.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/editstudent.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/static/custom-plugins/fileinput.min.js" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/custom-plugins/fileinput.min.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/engine/forms.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/engine/forms.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/captcha/helpers.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/captcha/helpers.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/initstudent.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/initstudent.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/static/jui/css/jquery.ui.button.css" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/jui/css/jquery.ui.button.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/validate/jquery.validate-min.js" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/validate/jquery.validate-min.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/leftmenu.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/leftmenu.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/static/js/core/login.js" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/core/login.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/manage.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/manage.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/captcha/models.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/captcha/models.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/engine/models.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/engine/models.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/static/css/mws-style.min.css" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/css/mws-style.min.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/static/css/mws-theme.css" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/css/mws-theme.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/resultnum.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/resultnum.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/select.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/assessment/select.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/class/select.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/class/select.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/select.html" afterPath="$USER_HOME$/ComPerformance-master/webadmin/templates/student/select.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/settings.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/settings.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/captcha/conf/settings.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/captcha/conf/settings.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/engine/tests.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/engine/tests.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/static/css/themer.css" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/css/themer.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/static/js/core/themer.js" afterPath="$USER_HOME$/ComPerformance-master/webadmin/static/js/core/themer.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/ComPerformance-master/webadmin/urls.py" afterPath="$USER_HOME$/ComPerformance-master/webadmin/urls.py" />
+    </list>
+    <ignored path="python_test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_test$models.coverage" NAME="models Coverage Results" MODIFIED="1388973407854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../djangoTest/blog" />
+    <SUITE FILE_PATH="coverage/python_test$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1389479086734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/ComPerformance-master/webadmin" />
+    <SUITE FILE_PATH="coverage/python_test$manage.coverage" NAME="manage Coverage Results" MODIFIED="1388973472519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../djangoTest" />
+    <SUITE FILE_PATH="coverage/python_test$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1388892367966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_test$Sclass.coverage" NAME="Sclass Coverage Results" MODIFIED="1388730059934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_test$Doctests_in__home_geiao_PycharmProjects_djangoTest_djangoTest.coverage" NAME="Doctests in /home/geiao/PycharmProjects/djangoTest/djangoTest Coverage Results" MODIFIED="1388973756794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../djangoTest/djangoTest" />
+    <SUITE FILE_PATH="coverage/python_test$Doctests_in__home_geiao_PycharmProjects_djangoTest.coverage" NAME="Doctests in /home/geiao/PycharmProjects/djangoTest Coverage Results" MODIFIED="1388973750020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../djangoTest" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="python_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mysite/engine/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="4" selection-start="753" selection-end="860" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mysite/mysite/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="1" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mysite/templates/class/class.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="85" column="77" selection-start="3375" selection-end="3375" vertical-scroll-proportion="-17.565218" vertical-offset="871" max-vertical-offset="1410">
+              <folding>
+                <element signature="n#style#0;n#table#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comperformance.table.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../mysite/static/js/comperformance/comperformance.table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="8" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.25" vertical-offset="1035" max-vertical-offset="15525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leftmenu.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mysite/templates/leftmenu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="76" selection-start="598" selection-end="598" vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="1260">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grades.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/templates/grade/grades.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="21" selection-start="493" selection-end="493" vertical-scroll-proportion="-6.7391305" vertical-offset="25" max-vertical-offset="1080">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/templates/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="750">
+              <folding>
+                <marker date="1366243694000" expanded="true" signature="61:1809" placeholder="..." />
+                <marker date="1366243694000" expanded="true" signature="136:413" placeholder="..." />
+                <marker date="1366243694000" expanded="true" signature="283:398" placeholder="..." />
+                <marker date="1366243694000" expanded="true" signature="551:1798" placeholder="..." />
+                <marker date="1366243694000" expanded="true" signature="679:1783" placeholder="..." />
+                <marker date="1366243694000" expanded="true" signature="770:1112" placeholder="..." />
+                <marker date="1366243694000" expanded="true" signature="1223:1764" placeholder="..." />
+                <marker date="1366243694000" expanded="true" signature="1267:1336" placeholder="..." />
+                <marker date="1366243694000" expanded="true" signature="1361:1741" placeholder="..." />
+                <marker date="1366243694000" expanded="false" signature="1584:1598" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mws.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/static/js/core/mws.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="19" selection-start="2695" selection-end="2695" vertical-scroll-proportion="0.0" vertical-offset="932" max-vertical-offset="1470">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mysite/engine/class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="143" column="19" selection-start="4695" selection-end="4695" vertical-scroll-proportion="0.0" vertical-offset="1701" max-vertical-offset="2250">
+              <folding>
+                <element signature="e#39#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../mysite/engine/forms.py" />
+        <option value="$USER_HOME$/ComPerformance-master/webadmin/engine/account.py" />
+        <option value="$PROJECT_DIR$/../mysite/templates/accounts/change_password.html" />
+        <option value="$PROJECT_DIR$/../mysite/engine/account.py" />
+        <option value="$PROJECT_DIR$/../mysite/templates/header.html" />
+        <option value="$PROJECT_DIR$/../mysite/templates/class/addclass.html" />
+        <option value="$PROJECT_DIR$/../mysite/templates/class/deleteclass.html" />
+        <option value="$PROJECT_DIR$/../mysite/templates/class/editclass.html" />
+        <option value="$PROJECT_DIR$/../mysite/templates/include.html" />
+        <option value="$PROJECT_DIR$/../mysite/templates/class/class.html" />
+        <option value="$PROJECT_DIR$/../mysite/engine/templatetags/leftmenu.py" />
+        <option value="$PROJECT_DIR$/../mysite/engine/urls.py" />
+        <option value="$PROJECT_DIR$/../mysite/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/../mysite/static/js/comperformance/comperformance.table.js" />
+        <option value="$PROJECT_DIR$/../mysite/templates/leftmenu.html" />
+        <option value="$PROJECT_DIR$/../mysite/engine/class.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1375" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ComPerformance-master/webadmin" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python_test" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python_test" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../mysite/engine" />
+      <recent name="$PROJECT_DIR$/../mysite/templates" />
+      <recent name="$PROJECT_DIR$/../mysite/engine/templates/engine" />
+      <recent name="$PROJECT_DIR$/../mysite" />
+      <recent name="$PROJECT_DIR$/../mysite/polls" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../djangoTest/blog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.mysite">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="oakcloud" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oakcloud" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Django server.oakcloud" />
+      <item index="1" class="java.lang.String" itemvalue="Django server.mysite" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/captcha" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/bootstrap" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/css" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/custom-plugins" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/example" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/images" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/js" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/jui" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/plugins" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/datatables/extra" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/jCombo" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/captcha" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/bootstrap" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/css" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/custom-plugins" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/example" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/images" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/js" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/jui" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/plugins" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/datatables/extra" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/ComPerformance-master/webadmin" />
+          <option name="myCopyRoot" value="$USER_HOME$/ComPerformance-master/webadmin/static/plugins/jCombo" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8cdc772-062d-4f70-b55d-9ab5a7e8080a" name="Default" comment="" />
+      <created>1388722057663</created>
+      <updated>1388722057663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1375" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="166" y="152" width="1175" height="676" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12210797" sideWeight="0.49963635" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.49963635" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25163636" sideWeight="0.85604113" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14395887" sideWeight="0.50036365" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14395887" sideWeight="0.49963635" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../mysite/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8055">
+          <folding>
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite/static/plugins/datatables/extra/TableTools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2300" column="5" selection-start="59795" selection-end="59795" vertical-scroll-proportion="0.40925267" vertical-offset="34270" max-vertical-offset="37215">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite/static/plugins/datatables/extra/ZeroClipboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5595">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite/engine/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="4" selection-start="753" selection-end="860" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite/templates/class/class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="77" selection-start="3375" selection-end="3375" vertical-scroll-proportion="-17.565218" vertical-offset="871" max-vertical-offset="1410">
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/static/css/icons/icol32.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="616" column="46" selection-start="40908" selection-end="40908" vertical-scroll-proportion="-2.951362" vertical-offset="10757" max-vertical-offset="21390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite/templates/leftmenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="76" selection-start="598" selection-end="598" vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/templates/include.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/templates/grade/grades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="493" selection-end="493" vertical-scroll-proportion="-6.7391305" vertical-offset="25" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <folding>
+            <marker date="1366243694000" expanded="true" signature="61:1809" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="136:413" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="283:398" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="551:1798" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="679:1783" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="770:1112" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="1223:1764" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="1267:1336" placeholder="..." />
+            <marker date="1366243694000" expanded="true" signature="1361:1741" placeholder="..." />
+            <marker date="1366243694000" expanded="false" signature="1584:1598" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/static/js/core/mws.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="19" selection-start="2695" selection-end="2695" vertical-scroll-proportion="0.0" vertical-offset="932" max-vertical-offset="1470">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2422" column="8" selection-start="83100" selection-end="83100" vertical-scroll-proportion="0.57295376" vertical-offset="36008" max-vertical-offset="76080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ComPerformance-master/webadmin/engine/class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.8251367" vertical-offset="1551" max-vertical-offset="2100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite/engine/class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="19" selection-start="4695" selection-end="4695" vertical-scroll-proportion="0.0" vertical-offset="1701" max-vertical-offset="2250">
+          <folding>
+            <element signature="e#39#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite/static/js/comperformance/comperformance.table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="8" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.25" vertical-offset="1035" max-vertical-offset="15525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
